@@ -14,4 +14,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/Shubhamghule1428/LeetSolve/tree/main/0038-count-and-say/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/Shubhamghule1428/LeetSolve/tree/main/0046-permutations/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/Shubhamghule1428/LeetSolve/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
