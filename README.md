@@ -18,8 +18,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Shubhamghule1428/LeetSolve/tree/main/0046-permutations/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/Shubhamghule1428/LeetSolve/tree/main/0119-pascals-triangle-ii/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Shubhamghule1428/LeetSolve/tree/main/0046-permutations/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Shubhamghule1428/LeetSolve/tree/main/0119-pascals-triangle-ii/) | Easy |
 <!---LeetCode Topics End-->
