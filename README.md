@@ -17,6 +17,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Shubhamghule1428/LeetSolve/tree/main/0001-two-sum/) | Easy |
 | [0046-permutations](https://github.com/Shubhamghule1428/LeetSolve/tree/main/0046-permutations/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/Shubhamghule1428/LeetSolve/tree/main/0119-pascals-triangle-ii/) | Easy |
 ## Backtracking
@@ -27,4 +28,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Shubhamghule1428/LeetSolve/tree/main/0119-pascals-triangle-ii/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Shubhamghule1428/LeetSolve/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
